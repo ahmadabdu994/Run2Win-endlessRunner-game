@@ -1,0 +1,509 @@
+{
+    "entryScene": "Main",
+    "recordingType": 0,
+    "recordedAspectRatio": {
+        "x": 1441.0,
+        "y": 587.0
+    },
+    "recordedResolution": {
+        "x": 1920.0,
+        "y": 1080.0
+    },
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 2.604327440261841,
+            "position": {
+                "x": 0.48299792408943179,
+                "y": 0.19250425696372987
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Shop button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.14580656588077546,
+                "y": -0.002831981284543872
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.41306614875793459,
+            "position": {
+                "x": 0.48299792408943179,
+                "y": 0.1890971064567566
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Shop button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.14580656588077546,
+                "y": -0.042338334023952487
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 2.2637200355529787,
+            "position": {
+                "x": 0.4913254678249359,
+                "y": 0.1056218072772026
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Back button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Shop menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.055372197180986407,
+                "y": 0.10683507472276688
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.13193988800048829,
+            "position": {
+                "x": 0.49271339178085329,
+                "y": 0.1056218072772026
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Back button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Shop menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.04382338747382164,
+                "y": 0.10683507472276688
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.2101659774780274,
+            "position": {
+                "x": 0.5190839767456055,
+                "y": 0.33901193737983706
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Option button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15446214377880097,
+                "y": 0.1541237235069275
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.12838125228881837,
+            "position": {
+                "x": 0.5190839767456055,
+                "y": 0.33901193737983706
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Option button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15446214377880097,
+                "y": 0.1541237235069275
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.3111538887023926,
+            "position": {
+                "x": 0.49618321657180788,
+                "y": 0.34582623839378359
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "sound Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.1432824283838272,
+                "y": -0.08582916110754013
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.1289825439453125,
+            "position": {
+                "x": 0.49618321657180788,
+                "y": 0.34582623839378359
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "sound Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.1432824283838272,
+                "y": -0.08582916110754013
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.7173995971679688,
+            "position": {
+                "x": 0.49965301156044009,
+                "y": 0.367972731590271
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "sound Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.07666202634572983,
+                "y": 0.08738380670547486
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0931396484375,
+            "position": {
+                "x": 0.49965301156044009,
+                "y": 0.367972731590271
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "sound Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.07666202634572983,
+                "y": 0.08738380670547486
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.2884101867675782,
+            "position": {
+                "x": 0.5017349123954773,
+                "y": 0.21465076506137849
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Back button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.01010217610746622,
+                "y": 0.17525868117809297
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.12859058380126954,
+            "position": {
+                "x": 0.5017349123954773,
+                "y": 0.21465076506137849
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Back button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Options menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.01010217610746622,
+                "y": 0.17525868117809297
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.8995695114135743,
+            "position": {
+                "x": 0.49271339178085329,
+                "y": 0.4429301619529724
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Play button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.06496501713991165,
+                "y": -0.09379991143941879
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.14028644561767579,
+            "position": {
+                "x": 0.49063152074813845,
+                "y": 0.4412265717983246
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Play button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/Main menu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.08228820562362671,
+                "y": -0.11355319619178772
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 14.786031723022461,
+            "position": {
+                "x": 0.6335877776145935,
+                "y": 0.3168654143810272
+            },
+            "positional": false,
+            "scene": "Scene No.1",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "restartbutton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/restartMenu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0546875,
+                "y": -0.19166666269302369
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.14216995239257813,
+            "position": {
+                "x": 0.6335877776145935,
+                "y": 0.3168654143810272
+            },
+            "positional": false,
+            "scene": "Scene No.1",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "restartbutton",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/restartMenu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0546875,
+                "y": -0.19166666269302369
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 17.379297256469728,
+            "position": {
+                "x": 0.3768216371536255,
+                "y": 0.33390119671821597
+            },
+            "positional": false,
+            "scene": "Scene No.1",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Main menu button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/restartMenu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.04843749850988388,
+                "y": -0.02500000037252903
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.15315628051757813,
+            "position": {
+                "x": 0.3768216371536255,
+                "y": 0.33390119671821597
+            },
+            "positional": false,
+            "scene": "Scene No.1",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "Main menu button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas/restartMenu",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": -0.04843749850988388,
+                "y": -0.02500000037252903
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 3.589202880859375,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "Main",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectIndex": 0,
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}
