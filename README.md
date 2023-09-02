@@ -6,3 +6,5 @@ This game is offering to anyone of different age to improve their strategies on 
 
 The aim of the game is to outrun an oncoming obstacle, barriers, and other objects. Collecting coins on the way gives players advantages such as high scores.
 The player must also collect coins so that he can take advantage of the game's store and have a better sense of the fun of playing when changing the character.
+
+on Dec14.2021
